@@ -6,7 +6,7 @@
 ![VM 1](https://github.com/user-attachments/assets/f6eebabf-6f98-4d6b-8d75-7e49d90e875d)
 ##### Résultat attendu
 ![VM 1](https://github.com/user-attachments/assets/3d302cd2-d1d3-4156-aea2-522243acafe6)
-##### :arrow_up: Clic droit dans le blanc, en bas à côté de Local Disk(C:)
+##### :arrow_up: Clic droit dans le blanc, en bas à côté de Local Disk(C:) => "Properties"
 ##### Puis clic sur "Advanced system settings"(bleu) => renseigner login et password de l'AD => "Change..."(rouge)
 ![VM 1](https://github.com/user-attachments/assets/1999e37d-e398-498e-b2df-2a727b7ef75a)
 ##### Choisir la partie "Domain" et renseigner le domaine créer dans l'AD.
